@@ -103,6 +103,7 @@ This repository is licensed under the **MIT License** – feel free to use and m
 ## 📬 Connect With Me
 
 👋 If you have any questions or just want to connect:
+
 🌐 Portfolio: [dawidkocma.com](https://www.dawidkocma.com/)  
 🚀 X: [@simpl3dave](https://x.com/simpl3dave)  
 📍 LinkedIn: [/dawidkocma](https://www.linkedin.com/in/dawidkocma/)  
